@@ -1,4 +1,4 @@
-# HTTP Server with Resume Generator (Task 7)
+# HTTP Server with Resume Generator 
 
 ## Описание
 Данное руководство было составлено с помощью нейросетей с корректировкой автора. 
